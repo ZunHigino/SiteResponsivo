@@ -56,7 +56,7 @@
     /* ========== MOBILE FIRST ==========*/
     /* SMALL DEVICES - SMARTPHONES */
     @media screen and (min-width: 480px) {
-    .logo {width: 214px; background: url(../assets/spark.png) center center/214px no-repeat;}
+    .logo {width: 214px; background: url(../assets/pikachu\ logo.png) center center/70px no-repeat;}
     .btn {font-size: 2em;}
     }
     /* SMALL DEVICES - TABLETS*/
